@@ -50,7 +50,7 @@ class PDF(FPDF):
         self.set_font('helvetica', '', 10)
         self.cell(0, 0, formatData, align='R')
 
-
+# Inicializa o json (neste caso, do arquivo teste.json)
 with open('teste.json', 'r', encoding='utf-8') as json_file:
     dados = json.load(json_file)
 
