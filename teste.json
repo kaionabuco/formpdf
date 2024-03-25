@@ -1,0 +1,25 @@
+{
+    "medico": {
+      "nome": "Dr. Fulano de Tal",
+      "crm": "CRM 12345"
+    },
+    "paciente": "Fabril Doenço da Silva",
+    "receituario": [
+      "- Dipirona 50g depois de toda refeição",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- Outro medicamento 20mg a cada 8 horas",
+      "- ..."
+    ]
+  }
+  
